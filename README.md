@@ -81,6 +81,17 @@ Improvements in this next version of the tool (will) include:
 
 # Examples
 
+## Some sites currently using Juncture
+
+- [Kent Maps Online](https://www.kent-maps.online)
+- [Biodiversity Stories](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/) - Site developed by Katherine Enright, a participant in a Dumbarton Oaks summer program
+- [Edison Papers Exhibit Site](https://www.juncture-digital.org/edisonpapers/Latimer)
+- [DigitalPeni](https://digitalpeni.org/)
+- [University of Colorado](https://da4asandbox.github.io/modules/historicizing-data/)
+- [Print & Probability](http://bookhistory.rocks/)
+
+## Demo essays
+
 - [Juncture V2](demo/amalfi-coast)
 - [Juncture V1](demo/amalfi-coast-j1)
 - [Plain HTML](https://rsnyder.github.io/uva-demo/demo/amalfi-coast-html)
