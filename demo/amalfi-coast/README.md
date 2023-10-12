@@ -19,13 +19,13 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ==Positano=={flyto=Q81345,15}
 
-==Amalfi=={flyto=Q80563}
+==Amalfi=={flyto=Q80563,15}
 
-==Fiordo di Furore=={flyto=Q33163826}
+==Fiordo di Furore=={flyto=Q33163826,15}
 
-==Ravello=={flyto=Q81427}
+==Ravello=={flyto=Q81427,15}
 
-==Pompeii=={flyto=Q43332}
+==Pompeii=={flyto=Q43332,15}
 
 
 ## Amalfi
