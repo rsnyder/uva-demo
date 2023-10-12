@@ -2,7 +2,7 @@
 
 # The Amalfi Coast
 
-The Amalfi Coast (Italian: Costiera amalfitana) is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.[^1]
+The ==Amalfi Coast=={Q212214} (Italian: Costiera amalfitana) is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.[^1]
 
 Celebrated worldwide for its Mediterranean landscape and natural diversity, the Coast is named after the town of Amalfi, which makes up its main historical and political centre. It is a very popular jet set destination, and has been an attraction to upper-class Europeans since the 18th century, when it was a frequent stopover on their Grand Tours.
 
@@ -29,7 +29,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ## Positano
 
-Positano (Campanian: Pasitano) is a village and comune on the Amalfi Coast (Province of Salerno), in Campania, Italy, mainly in an enclave in the hills leading down to the coast.[^2]
+==Positano=={Q81345} (Campanian: Pasitano) is a village and comune on the Amalfi Coast (Province of Salerno), in Campania, Italy, mainly in an enclave in the hills leading down to the coast.[^2]
 
 The climate of Positano is very mild, of the Mediterranean type; the winters are very warm with minimum temperatures that almost never fall below 6 43 °F, while the summers are long, warm and sunny but often refreshed by the sea breeze. Thanks to the mild temperature and the beauty of the landscape, Positano has been a holiday resort since the time of the Roman Empire, as evidenced by the discovery of a villa in the bay. Typical are the many staircases that from the top of the village connect the upper districts with the valley area. The main beaches are Spiaggia Grande, Fornillo, La Porta, Fiumicello, Arienzo, San Pietro, Laurito and Remmese, some of which can also be reached by sea.
 
