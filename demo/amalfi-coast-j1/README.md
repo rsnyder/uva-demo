@@ -9,6 +9,8 @@
 
 # The Amalfi Coast
 
+<param ve-image manifest="https://iiif.juncture-digital.org/iiif/2/wc:AmalfiCoast11.jpg/manifest.json">
+
 The Amalfi Coast (Italian: Costiera amalfitana) is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.[^1]
 
 Celebrated worldwide for its Mediterranean landscape and natural diversity, the Coast is named after the town of Amalfi, which makes up its main historical and political centre. It is a very popular jet set destination, and has been an attraction to upper-class Europeans since the 18th century, when it was a frequent stopover on their Grand Tours.
@@ -17,11 +19,11 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ## Popular locations
 
-**Positano** is located in an enclave in the hills leading down to the coast.  
-**Amalfi** lies at the mouth of a deep ravine, at the foot of Monte Cerreto (4,314 feet), surrounded by dramatic cliffs and coastal scenery.  
-**Fiordo di Furore** is nestled between two sheer rock faces that are connected by an arched bridge. This narrow cove is a unique and breathtaking spot on the Amalfi Coast  
-**Ravello** is situated above the Amalfi Coast, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997  
-**Pompeii** was an ancient city located in what is now the comune of Pompei near Naples and was buried under 13 to 20 ft of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.  Pompeii is not on the Amalfi Coast but is a close enough to be a popular destination for coast visitors.
+- **Positano** is located in an enclave in the hills leading down to the coast.  
+- **Amalfi** lies at the mouth of a deep ravine, at the foot of Monte Cerreto (4,314 feet), surrounded by dramatic cliffs and coastal scenery.  
+- **Fiordo di Furore** is nestled between two sheer rock faces that are connected by an arched bridge. This narrow cove is a unique and breathtaking spot on the Amalfi Coast  
+- **Ravello** is situated above the Amalfi Coast, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997  
+- **Pompeii** was an ancient city located in what is now the comune of Pompei near Naples and was buried under 13 to 20 ft of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.  Pompeii is not on the Amalfi Coast but is a close enough to be a popular destination for coast visitors.
 <param ve-map center="Q212214" zoom="10"> 
 
 ## Positano
