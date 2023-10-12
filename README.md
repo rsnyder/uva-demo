@@ -1,6 +1,6 @@
 [![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
 
-# Juncture (initial version)
+# Juncture, initial version
 
 The Plant Humanities Lab is a web site hosting visual essays that "Explore the cultural histories of plants and their influence on human societies".  The Plant Humanities Lab was launched in 2021 as a key output of 2 Mellon funded projects jointly conducted by Dumbarton Oaks and JSTOR Labs.
 
@@ -46,8 +46,44 @@ The features include points (therefore addresses and locations), line strings (t
 
 The GeoJSON format differs from other GIS standards in that it was written and is maintained not by a formal standards organization, but by an Internet working group of developers.
 
-# Demos
+# Juncture, version 2
+
+Following the release of Juncture in Fall 2021, a next-gen version was developed to address some of the lessons learned in developing and using the first version.
+
+- Improved flexibility in page layouts, including better rendering on mobile devices
+- Enhanced IIIF support, including new capabilities for creating and using self-hosted image collections in Github
+- Authoring tools for easier editing
+    - Preview from editor
+    - Drag-and-drop for images and videos with automatic tag creation
+- Improved on-line documentation with drag-and-drop and cut-paste code snippets
+- Viewer components reimplemented as standard HTML5 Web Components enabling use outside of Juncture environments, including in vanilla HTML pages and Wordpress
+
+# Resource finder (aka, semantic search tool)
+
+The Plant Humanities Lab release in 2021 was accompanied with a search fool for finding images and journal articles and presenting data extracted from the Wikidata knowledge graph.  The tool was at an alpha level of completeness and quality but showed much promise.
+
+An updated version of the tool is currently under development with completion expected by the end of the year.  An in-process version of the tool can seen at [https://search.plant-humanities.org](https://search.plant-humanities.org).
+
+Improvements in this version of the tool (will) include:
+
+- Simplified user interface
+- On-the-fly generation of IIIF manifests for images
+- Support for Juncture drag-and-drop viewer tagging in Juncture editor
+- Selecting and saving favorites
+- Crowd sourced entity tagging
+- Easier addition of new resource providers
+- Federated image and document searching with endless-scroll viewing
+- More options for filtering and sorting
+
+# Examples
 
 - [Juncture V2](demo/amalfi-coast)
 - [Juncture V1](demo/amalfi-coast-j2)
 - [Plain HTML](https://rsnyder.github.io/uva-demo/demo/amalfi-coast-html)
+
+# For more info...
+
+Contact me at:
+
+- [https://github.com/rsnyder](https://github.com/rsnyder)
+- [Ron.Snyder@ITHAKA.org](Ron.Snyder@ITHAKA.org)
