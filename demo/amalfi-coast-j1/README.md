@@ -19,6 +19,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ## Popular locations
 
+Some popular destinations on the Amalfi Coast include:
 <param ve-map center="Q212214" zoom="10"> 
 
 - **Positano** is located in an enclave in the hills leading down to the coast.  
@@ -26,6 +27,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 - **Fiordo di Furore** is nestled between two sheer rock faces that are connected by an arched bridge. This narrow cove is a unique and breathtaking spot on the Amalfi Coast  
 - **Ravello** is situated above the Amalfi Coast, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997  
 - **Pompeii** was an ancient city located in what is now the comune of Pompei near Naples and was buried under 13 to 20 ft of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.  Pompeii is not on the Amalfi Coast but is a close enough to be a popular destination for coast visitors.
+<param ve-map center="Q212214" zoom="10"> 
 
 ## Positano
 
