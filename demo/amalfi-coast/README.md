@@ -1,6 +1,6 @@
 .ve-header "Amalfi Coast" wc:AmalfiCoast11.jpg sticky
 
-# Amalfi Coast
+# The Amalfi Coast
 
 The Amalfi Coast (Italian: Costiera amalfitana) is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.[^1]
 
@@ -17,15 +17,15 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
     - Q81427
     - Q43332
 
-==Positano=={flyto=Q81345,15} is located in an enclave in the hills leading down to the coast.
+==**Positano**=={flyto=Q81345,15} is located in an enclave in the hills leading down to the coast.
 
-==Amalfi=={flyto=Q80563,15} lies at the mouth of a deep ravine, at the foot of Monte Cerreto (4,314 feet), surrounded by dramatic cliffs and coastal scenery.
+==**Amalfi**=={flyto=Q80563,15} lies at the mouth of a deep ravine, at the foot of Monte Cerreto (4,314 feet), surrounded by dramatic cliffs and coastal scenery.
 
-==Fiordo di Furore=={flyto=Q33163826,15} is nestled between two sheer rock faces that are connected by an arched bridge. This narrow cove is a unique and breathtaking spot on the Amalfi Coast
+==**Fiordo di Furore**=={flyto=Q33163826,15} is nestled between two sheer rock faces that are connected by an arched bridge. This narrow cove is a unique and breathtaking spot on the Amalfi Coast
 
-==Ravello=={flyto=Q81427,15} is situated above the Amalfi Coast, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997
+==**Ravello**=={flyto=Q81427,15} is situated above the Amalfi Coast, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997
 
-==Pompeii=={flyto=Q43332,15} was an ancient city located in what is now the comune of Pompei near Naples and was buried under 13 to 20 ft of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.  Pompeii is not on the Amalfi Coast but is a close enough to be a popular destination for coast visitors.
+==**Pompeii**=={flyto=Q43332,15} was an ancient city located in what is now the comune of Pompei near Naples and was buried under 13 to 20 ft of volcanic ash and pumice in the Eruption of Mount Vesuvius in 79 AD.  Pompeii is not on the Amalfi Coast but is a close enough to be a popular destination for coast visitors.
 
 ## Amalfi
 
