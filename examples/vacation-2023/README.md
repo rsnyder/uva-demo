@@ -2,7 +2,17 @@
 
 # Vacation itinerary
 
-.ve-map 40.38003,-99.84375 4 - Q180402 - Q351 - Q373567 - Q220289 - Q205325 - Q222695 - Q219562 - Q777183 - Q223969 - Q464004
+.ve-map 40.38003,-99.84375 4 right
+    - Q180402
+    - Q351
+    - Q373567
+    - Q220289
+    - Q205325
+    - Q222695
+    - Q219562
+    - Q777183
+    - Q223969
+    - Q464004
 
 1. **Rocky Mountain National Park**
 2. **Arches National Park**
