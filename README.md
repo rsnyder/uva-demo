@@ -12,7 +12,7 @@ A generalized version of the visual essay rendering code developed for the Plant
 
 A guiding principle in the development of the Plant Humanities Lab (and the subsequent evolution of Juncture) was use of free and/or open-source tools where possible in a minimal computing environment. 
 
-### :heavy_minus_sign: Github
+:heavy_minus_sign: **Github**
 
 [GitHub](https://www.github.com), Inc. is a platform and cloud-based service commonly used for software development and version control.  It provides distributed version control plus access control, bug tracking, software feature requests, task management, continuous integration, and project wikis.  Github has been a subsidiary of Microsoft since 2018.
 
@@ -26,7 +26,7 @@ Github features incclude,
 - Web hosting, with custom domains
 - Most features are free to use (including all features used by Juncture)
 
-### - Markdown
+### Markdown
 
 [Markdown](https://www.markdownguide.org/) is a lightweight markup language for creating formatted text using a plain-text editor. Markdown was created in 2004 as a markup language that is easy to read in its source code form.  Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
 
