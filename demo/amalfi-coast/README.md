@@ -16,6 +16,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
     - Q33163826
     - Q81427
     - Q43332
+    - gh:rsnyder/uva-demo/images/Ravello__1.jpg
 
 ==Positano=={flyto=Q81345}
 
