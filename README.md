@@ -1,4 +1,4 @@
-[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](//juncture-digital.org)
+[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
 
 # Juncture (initial version)
 
