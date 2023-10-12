@@ -8,7 +8,7 @@ Celebrated worldwide for its Mediterranean landscape and natural diversity, the 
 
 Attracting international tourists of all classes annually, the Amalfi Coast was listed as a UNESCO World Heritage Site in 1997. Atrani and Vietri sul Mare are members of the I Borghi più belli d'Italia ("The most beautiful villages of Italy") association.
 
-## Places visited
+## Popular locations
 
 .ve-map center=Q212214 zoom=10 right
     - Q81345
@@ -17,7 +17,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
     - Q81427
     - Q43332
 
-==Positano=={flyto=Q81345}
+==Positano=={flyto=Q81345,15}
 
 ==Amalfi=={flyto=Q80563}
 
