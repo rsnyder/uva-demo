@@ -1,3 +1,5 @@
+[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](//juncture-digital.org)
+
 # Juncture (initial version)
 
 The Plant Humanities Lab is a web site hosting visual essays that "Explore the cultural histories of plants and their influence on human societies".  The Plant Humanities Lab was launched in 2021 as a key output of 2 Mellon funded projects jointly conducted by Dumbarton Oaks and JSTOR Labs.
