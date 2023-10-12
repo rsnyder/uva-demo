@@ -1,4 +1,4 @@
-.ve-header Amalfi wc:AmalfiCoast11.jpg sticky=true
+.ve-header "Amalfi Coast" wc:AmalfiCoast11.jpg sticky
 
 # Amalfi Coast
 
@@ -10,28 +10,45 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ## Places visited
 
-.ve-map right
+.ve-map center=Q212214 zoom=8 right
     - Q81345
     - Q80563
     - Q33163826
     - Q81427
     - Q43332
+    - gh:rsnyder/images/Ravello__1.jpg
 
-- ==Positano=={flyto=Q81345}
-- ==Amalfi=={flyto=Q80563}
-- ==Fiordo di Furore=={flyto=Q81345}
-- ==Ravello=={flyto=Q81345}
-- ==Pompeii=={flyto=Q81345}
+==Positano=={flyto=Q81345}
+
+==Amalfi=={flyto=Q80563}
+
+==Fiordo di Furore=={flyto=Q33163826}
+
+==Ravello=={flyto=Q81427}
+
+==Pompeii=={flyto=Q43332}
+
 
 ## Amalfi
 
 Amalfi is a town and _comune_ in the province of Salerno, in the region of Campania, Italy, on the Gulf of Salerno. It lies at the mouth of a deep ravine, at the foot of Monte Cerreto, surrounded by dramatic cliffs and coastal scenery. The town of Amalfi was the capital of the maritime republic known as the Duchy of Amalfi, an important trading power in the Mediterranean between 839 and around 1200.[^2]
 
-.ve-image gh:rsnyder/images/Amalfi_Coast.jpg
+.ve-media gh:rsnyder/images/Amalfi_Coast.jpg right
 
 Amalfi is the main town of the coast on which it is located, named _Costiera Amalfitana_ (Amalfi Coast), and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others.
 
 One of the main sites in Amalfi is the Amalfi Cathedral. ==The cathedral=={1905,1054,584,439} richly represents the artistic movement prevailing in Southern Italy at the time of the Normans, with its tendency to blend the Byzantine style with the forms and sharp lines of the northern architecture.
  
+## Ravello
+
+Ravello (Campanian: Raviello, Reviello) is a town and comune situated above the Amalfi Coast in the province of Salerno, Campania, Southern Italy, with approximately 2,500 inhabitants. Its scenic location makes it a popular tourist destination, and earned it a listing as a UNESCO World Heritage Site in 1997.[^3]
+
+.ve-media
+    - gh:rsnyder/images/Ravello__1.jpg
+    - gh:rsnyder/images/Ravello__2.jpg
+    - gh:rsnyder/images/Ravello__3.jpg
+
+
 [^1]: Amalfi_Coast. In _Wikipedia_.  Retrieved October 12, 2023, from  https://en.wikipedia.org/wiki/Amalfi_Coast
 [^2]: Amalfi. In _Wikipedia_.  Retrieved June 2, 2022, from  https://en.wikipedia.org/wiki/Amalfi
+[^3]: Ravello. In _Wikipedia_.  Retrieved October 12, 2023, from  https://en.wikipedia.org/wiki/Ravello
