@@ -48,4 +48,4 @@ The GeoJSON format differs from other GIS standards in that it was written and i
 
 - [Juncture V2](demo/amalfi-coast)
 - [Juncture V1](demo/amalfi-coast-j2)
-- [Plain HTML](demo/amalfi-coast-html)
+- [Plain HTML](https://rsnyder.github.io/uva-demo/demo/amalfi-coast-html)
