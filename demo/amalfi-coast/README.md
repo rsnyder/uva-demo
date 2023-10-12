@@ -36,7 +36,7 @@ The climate of Positano is very mild, of the Mediterranean type; the winters are
 .ve-media
     - gh:rsnyder/uva-demo/images/Positano.jpg
     - wc:Positano_Sunset.JPG
-    - flickr:5015259103/manifest.json
+    - flickr:5015259103
 
 ## Amalfi
 
