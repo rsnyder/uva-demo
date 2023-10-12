@@ -82,7 +82,7 @@ Improvements in this next version of the tool (will) include:
 # Examples
 
 - [Juncture V2](demo/amalfi-coast)
-- [Juncture V1](demo/amalfi-coast-j2)
+- [Juncture V1](demo/amalfi-coast-j1)
 - [Plain HTML](https://rsnyder.github.io/uva-demo/demo/amalfi-coast-html)
 
 # For more info...

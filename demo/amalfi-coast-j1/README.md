@@ -1,4 +1,4 @@
-<param ve-config title="The Amalfi Coast" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AmalfiCoast11.jpg/1024px-AmalfiCoast11.jpg" layout="vertical"
+<param ve-config title="The Amalfi Coast" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AmalfiCoast11.jpg/1024px-AmalfiCoast11.jpg" layout="vertical">
 
 <param ve-entity eid="Q212214">
 <param ve-entity eid="Q81345">
