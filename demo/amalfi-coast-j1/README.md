@@ -45,7 +45,7 @@ Amalfi is a town and _comune_ in the province of Salerno, in the region of Campa
 
 Amalfi is the main town of the coast on which it is located, named _Costiera Amalfitana_ (Amalfi Coast), and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others.
 
-One of the main sites in Amalfi is the Amalfi Cathedral. ==The cathedral=={1905,1054,584,439} richly represents the artistic movement prevailing in Southern Italy at the time of the Normans, with its tendency to blend the Byzantine style with the forms and sharp lines of the northern architecture.
+One of the main sites in Amalfi is the Amalfi Cathedral. <span data-click-image-zoomto="1905,1054,584,439">The cathedral</span> richly represents the artistic movement prevailing in Southern Italy at the time of the Normans, with its tendency to blend the Byzantine style with the forms and sharp lines of the northern architecture.
  
 ## Ravello
 
