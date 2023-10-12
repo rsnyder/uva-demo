@@ -10,7 +10,7 @@ Attracting international tourists of all classes annually, the Amalfi Coast was 
 
 ## Places visited
 
-.ve-map center=Q212214 zoom=8 right
+.ve-map center=Q212214 zoom=10 right
     - Q81345
     - Q80563
     - Q33163826
