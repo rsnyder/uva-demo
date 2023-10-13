@@ -46,6 +46,8 @@ Github features incclude,
 - Web hosting, with custom domains
 - Most features are free to use (including all features used by Juncture)
 
+New Github users may find the first couple episodes in the [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) video series helpful as a gentle introduction to Github use and concepts.
+
 ### Markdown
 
 [Markdown](https://www.markdownguide.org/) is a lightweight markup language for creating formatted text using a plain-text editor. Markdown was created in 2004 as a markup language that is easy to read in its source code form.  Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
