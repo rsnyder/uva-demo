@@ -16,6 +16,8 @@ Juncture also provides a few optional companion services
 - A semantic search tool for locating images and documents for use in visual essay development
 - A web-based authoring environment
 
+.ve-map
+
 ## Viewing a Juncture essay
 
 Any Markdown file in Github can be used a Juncture visual essay.  All that is needed is to point the Juncture rendering engine to the file.
