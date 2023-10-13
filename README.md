@@ -8,6 +8,8 @@ A generalized version of the visual essay rendering code developed for the Plant
 
 ## What is Juncture exactly?
 
+.ve-map right
+
 In simplest terms, Juncture is a Markdown rendering engine that understands how to interpret and render a few special tags to create interactive viewers.
 
 Juncture also provides a few optional companion services
@@ -15,8 +17,6 @@ Juncture also provides a few optional companion services
 - IIIF services for dynamic rendering of high-resolution images when IIIF versions of an image are not provided by an image provider
 - A semantic search tool for locating images and documents for use in visual essay development
 - A web-based authoring environment
-
-.ve-map
 
 ## Viewing a Juncture essay
 
