@@ -21,6 +21,8 @@ Juncture also provides a few optional companion services
 
 ## Viewing a Juncture essay
 
+.ve-media wc:University_of_Virginia_Rotunda_2006.jpg right
+
 Any Markdown file in Github can be used a Juncture visual essay.  All that is needed is to point the Juncture rendering engine to the file.
 
 > [https://juncture-digital.org](https://juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
