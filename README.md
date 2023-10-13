@@ -8,9 +8,6 @@ A generalized version of the visual essay rendering code developed for the Plant
 
 ## What is Juncture exactly?
 
-.ve-map Q213439 14 right
-    - 38.03584814642169,-78.50348619022427 "The Rotunda" wc:University_of_Virginia_Rotunda_2006.jpg
-
 In simplest terms, Juncture is a Markdown rendering engine that understands how to interpret and render a few special tags to create interactive viewers.
 
 Juncture also provides a few optional companion services
@@ -20,8 +17,6 @@ Juncture also provides a few optional companion services
 - A web-based authoring environment
 
 ## Viewing a Juncture essay
-
-.ve-media wc:University_of_Virginia_Rotunda_2006.jpg right
 
 Any Markdown file in Github can be used a Juncture visual essay.  All that is needed is to point the Juncture rendering engine to the file.
 
