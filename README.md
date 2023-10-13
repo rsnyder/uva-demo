@@ -62,7 +62,7 @@ New Github users may find the first couple episodes in the [Github for Poets](ht
 
 ### Leaflet
 
-.ve-map 
+.ve-map Q213439 14 right
 
 [Leaflet](https://leafletjs.com/) is an open source JavaScript library used to build web mapping applications. First released in 2011, it supports most mobile and desktop platforms, supporting HTML5 and CSS3. Among its users are FourSquare, Pinterest and Flickr.
 
