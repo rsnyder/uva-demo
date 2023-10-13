@@ -2,15 +2,25 @@
 
 The [Plant Humanities Lab](https://lab.plant-humanities.org) is a web site hosting visual essays that "Explore the cultural histories of plants and their influence on human societies".  The Plant Humanities Lab was launched in 2021 as a key output of 2 Mellon funded projects jointly conducted by Dumbarton Oaks and JSTOR Labs.
 
-The infrastructure for the Plant Humanities Lab enables non-programmers to generate a rich web site consisting of multiple interactive visual essays.
+The infrastructure for the Plant Humanities Lab enables non-programmers to generate a single visual essay or a rich web site consisting of multiple interactive visual essays.
 
 A generalized version of the visual essay rendering code developed for the Plant Humanities Lab was released at the conclusion of the development projects as [Juncture](https://juncture-digital.org)
+
+## What is Juncture exactly?
+
+In simplest terms, Juncture is a Markdown rendering engine that understands how to interpret and render a few special tags to create interactive viewers.
+
+Juncture also provides a few optional companion services
+
+- IIIF services for dynamic rendering of high-resolution images when IIIF versions of an image are not provided by an image provider
+- A semantic search tool for locating images and documents for use in visual essay development
+- A web-based authoring environment
 
 ## Viewing a Juncture essay
 
 Any Markdown file in Github can be used a Juncture visual essay.  All that is needed is to point the Juncture rendering engine to the file.
 
-> [https://juncture-digital.org](https://juncture-digital.org) + `Github username` + `Github repository name` + `Repository path`
+> [https://juncture-digital.org](https://juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
 
 For example, 
 
