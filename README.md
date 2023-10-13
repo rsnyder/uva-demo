@@ -40,6 +40,7 @@ As of January 2023, GitHub reported having over 100 million developers and more 
 Github features incclude,
 
 - File storage (Markdown, images, annotations, etc)
+- A rich API for programmatic interaction with repository contents
 - Version control
 - Support for implementation of publishing workflows
 - Web hosting, with custom domains
