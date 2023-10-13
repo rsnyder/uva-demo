@@ -1,3 +1,5 @@
+[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
+
 .ve-header "Amalfi Coast" wc:AmalfiCoast11.jpg sticky
 
 # The Amalfi Coast
